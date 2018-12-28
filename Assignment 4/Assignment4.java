@@ -1,6 +1,6 @@
 // Assignment #: 4
 // Name:
-// StudentID: 1201902394
+// StudentID:
 // Lecture: TTh 4:30-5:45
 // Description: Assignment 4 class displays a menu of choices to a user
 //        and performs the chosen task. It will keep asking a user to
